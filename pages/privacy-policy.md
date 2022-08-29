@@ -1,37 +1,36 @@
 ---
 layout: page
-title: Privacy Policy
+title: Политика Конфиденциальности 
 permalink: /privacy-policy/
 comments: false
 ---
 
-### Information that is gathered from visitors
-In common with other websites, log files are stored on the web server saving details such as the visitor's IP address, browser type, referring page and time of visit.
+Информация, полученная от посетителей
+Как и на других веб-сайтах, файлы журналов хранятся на веб-сервере, сохраняя такие данные, как IP-адрес посетителя, тип браузера, ссылочную страницу и время посещения.
 
-Cookies may be used to remember visitor preferences when interacting with the website.
+Файлы cookie могут использоваться для запоминания предпочтений посетителей при взаимодействии с веб-сайтом.
 
-Where registration is required, the visitor's email and a username will be stored on the server.
+Если требуется регистрация, электронная почта посетителя и имя пользователя будут храниться на сервере.
 
-### How the Information is used
-The information is used to enhance the vistor's experience when using the website to display personalised content and possibly advertising.
+Как используется информация
+Информация используется для повышения удобства посетителей при использовании веб-сайта для отображения персонализированного контента и, возможно, рекламы.
 
-E-mail addresses will not be sold, rented or leased to 3rd parties.
+Адреса электронной почты не будут продаваться, сдаваться в аренду или сдаваться в аренду третьим лицам.
 
-E-mail may be sent to inform you of news of our services or offers by us or our affiliates.
+Электронная почта может быть отправлена ​​для информирования вас о новостях о наших услугах или предложениях от нас или наших аффилированных лиц.
 
-### Visitor Options
-If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in e-mail that you receive.
+# Параметры посетителя
+Если вы подписались на одну из наших услуг, вы можете отказаться от подписки, следуя инструкциям, которые содержатся в полученном вами электронном письме.
 
-You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website.
+Вы можете заблокировать файлы cookie в настройках своего браузера, но это может помешать вам получить доступ к определенным функциям веб-сайта.
 
-### Cookies
-Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website.
+# Cookies
+Файлы cookie — это небольшие файлы с цифровой подписью, которые сохраняются вашим веб-браузером и позволяют записывать ваши предпочтения при посещении веб-сайта. Также они могут использоваться для отслеживания повторных посещений веб-сайта.
 
-3rd party advertising companies may also use cookies for tracking purposes.
+Сторонние рекламные компании также могут использовать файлы cookie для целей отслеживания.
 
-### Google Ads
-Google, as a third party vendor, uses cookies to serve ads.
+Google, как сторонний поставщик, использует файлы cookie для показа рекламы.
 
-Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
+Использование Google файла cookie DART позволяет показывать рекламу посетителям на основе их посещения сайтов, которые они посещают в Интернете.
 
-Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Посетители веб-сайта могут отказаться от использования файла cookie DART, посетив политику конфиденциальности рекламы и сети контекстной рекламы Google.

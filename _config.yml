@@ -1,9 +1,9 @@
 title: "Affiliates"
-email: wowthemesnet@gmail.com
+email: yuu.amout@gmail.com
 timezone: UTC
 baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/logo.svg'
 favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 30
@@ -20,7 +20,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+ganalytics: G-ZT1WM27NCK
 
 # Authors
 authors:

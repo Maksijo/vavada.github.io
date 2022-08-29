@@ -1,32 +1,32 @@
 # Top Menu
 topmenu:
 
-- title: Home
+- title: Vavada
   url: ""
 
-- title: About
+- title: О нашем казино
   url: "about/"
 
-- title: Contact
+- title: Контакты
   url: "contact/"
 
-- title: Get this theme  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+- title: Зеркало Vavada 2022
+  url: https://cutt.ly/gXJlYrc
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 
 # Footer Menu
 footermenu:
 
-- title: Home
+- title: Vavada
   url: ""
 
 - title: Privacy Policy
   url: "privacy-policy/"
 
-- title: Contact
+- title: Контакты
   url: "contact/"
 
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+- title: Зеркало 2022
+  url: https://cutt.ly/gXJlYrc
   external: true
